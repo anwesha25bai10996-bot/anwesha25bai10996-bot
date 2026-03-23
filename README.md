@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Anwesha Dhote 👋
+
+- 🎓 Branch: B.Tech CSE AI ML
+- 📅 Year: First Year B.Tech (2025–2029)
+- 🏫 Institution: VIT Bhopal University
+- 📧 Email: anwesha.25bai10996@vitbhopal.ac.in
+- 💡 I hope to learn full-stack web development, explore the possibilities and potential of AI and Machine learning, and build real world projects that solve everyday problems.
 
 <!--
 **anwesha25bai10996-bot/anwesha25bai10996-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
